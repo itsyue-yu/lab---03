@@ -1,7 +1,7 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
 
-author: "Olina1, Chun, Gavin, Yue, Star Yang, Sahasra Vundavalli - No_idea"
+author: "Olina, Chun, Gavin, Yue, Star, Sahasra - No_idea"
 
 
 date: "`r Sys.Date()`"
