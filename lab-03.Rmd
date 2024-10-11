@@ -13,6 +13,7 @@ output: html_document
 ```{r load-packages, message = FALSE, warning=FALSE}
 library(tidyverse)
 library(ggplot2)
+staff <- read_csv("data/instructional-staff.csv")
 ```
 
 
